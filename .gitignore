@@ -4,6 +4,7 @@ examples/resume/_*.md
 examples/output/*.html
 examples/output/*.pdf
 .tmp_pdf_source.html
+examples/source/myresume.md
 
 # OSX files
 .DS_Store
